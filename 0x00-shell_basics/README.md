@@ -1,3 +1,3 @@
 #!/bin/bash
-/tmp/correction/0881308602042913758727246906041744274431_5/205/419962/0x00-shell_basics
+echo "The directory contains a file with a command on how to get to the absolute path name of the current working directory"
 $
