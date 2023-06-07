@@ -1,3 +1,3 @@
 #!/bin/bash
-current working directory
+/tmp/correction/0881308602042913758727246906041744274431_5/205/419962/0x00-shell_basics
 $
