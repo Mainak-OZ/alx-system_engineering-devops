@@ -1,3 +1,3 @@
 #!/bin/bash
-/tmp/correction/9269398670449342852766616019771550779710_5/205/419962/0x00-shell_basics
+echo "The respository contains a new directory named 0x00-shell_basics and a file 0-current_working_directory"
 $
